@@ -4,12 +4,6 @@
 
 Recipe Finder is a web application that allows users to search for recipes by their names. The application provides detailed recipe information, including ingredients and instructions, and allows users to save their favorite recipes for easy access. This project is built using HTML, CSS, and JavaScript, and integrates with the MealDB API to fetch recipe data.
 
-### README.md
-
-```markdown
-# Recipe Finder
-
-Recipe Finder is a web application that allows users to search for recipes by their names, view detailed recipe information, and save their favorite recipes for easy access.
 
 ## Features
 
