@@ -31,7 +31,7 @@ Follow these instructions to set up the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recipe-finder.git
+   git clone https://github.com/Ishan-Parnami/recipe-finder-app.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -124,9 +124,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Recipe Finder - A simple and elegant solution to find and save your favorite recipes.*
 ```
-
-### Instructions
-
-1. Replace `https://github.com/yourusername/recipe-finder.git` with the actual URL of your GitHub repository.
-2. Make sure to include the `food-bg.jpg` file or replace it with your own image URL in the CSS background property.
-3. Optionally, add any additional details specific to your implementation or environment setup.
